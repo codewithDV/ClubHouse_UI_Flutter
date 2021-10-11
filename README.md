@@ -1,1 +1,7 @@
-# ClubHouse_UI_Flutter
+# ClubHouse_UI_Flutter![Screenshot 2021-10-11 at 12 19 36 PM](https://user-images.githubusercontent.com/88374321/136745079-f35ebb16-9be2-4783-9ffe-f392fe445f75.png)
+![Screenshot 2021-10-11 at 12 19 36 PM](https://user-images.githubusercontent.com/88374321/136745121-c40f72a7-33e5-4af4-a978-c6bbe83fc90a.png)
+![roundflu](https://user-images.githubusercontent.com/88374321/136745130-fa4c84e2-655e-4ced-841b-4003b740aefa.png)
+![Screenshot 2021-10-11 at 12 19 55 PM](https://user-images.githubusercontent.com/88374321/136745133-4f296d1b-fecb-4954-a951-68e7cbe03c7f.png)
+![Screenshot 2021-10-11 at 12 20 06 PM](https://user-images.githubusercontent.com/88374321/136745134-2f7550e9-d1b0-48ec-8f9e-8a14d50944a2.png)
+![Screenshot 2021-10-11 at 12 20 21 PM](https://user-images.githubusercontent.com/88374321/136745136-f15f65f1-17ec-485b-b61d-0600f6f0d00d.png)
+![Screenshot 2021-10-11 at 12 20 32 PM](https://user-images.githubusercontent.com/88374321/136745139-cb61aebd-bb99-4b90-8f17-362b5de93420.png)
